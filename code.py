@@ -5,3 +5,4 @@ def kvadrat(a):
 a = 12
 res = kvadrat(a)
 print('a = ',res) 
+print('hello world')
